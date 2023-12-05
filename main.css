@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.background{
+    width:1900px;
+    height: 150vh;
+    background-image: url(image/anh.jpg);
+    background-repeat: no-repeat;
+    box-sizing: border-box;
+    border:1px solid red;
+    background-size: cover;
+    position: relative;
+    display: inline-block;
+}
+.qua{
+    position: absolute;
+    top: 200px;
+    left: 200px;
+    font-size: 30px;
+    font-weight: bolder;
+}
+.item1{
+   position: absolute;
+   bottom: 0;
+   right: 570px;
+   
+}
+.quane{
+    position: absolute;
+    top: 250px;
+    left: 200px;
+    font-size: 30px;
+}
+.item2{
+    position: absolute;
+    bottom: 0px;
+    left: 21%;
+}
+.mau{
+    color:azure;
+}
+.iteam{
+    width: 10px !important;
+    height: 10px !important;
+}
+
